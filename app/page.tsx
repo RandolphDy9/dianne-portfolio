@@ -224,7 +224,7 @@ export default function Portfolio() {
           <div className="text-center mb-16 animate-in fade-in slide-in-from-bottom duration-700">
             <h2 className="text-4xl font-bold text-slate-900 mb-6">About Me</h2>
             <p className="text-lg text-slate-600 max-w-3xl mx-auto">
-              I'm a results-driven IT Project Manager with a proven track record of delivering complex technology
+              I&apos;m a results-driven IT Project Manager with a proven track record of delivering complex technology
               projects on time and within budget. My expertise spans across various industries, with a focus on digital
               transformation, cloud migration, and process optimization.
             </p>
@@ -371,9 +371,9 @@ export default function Portfolio() {
       <section id="contact" className="py-20 px-6 bg-gradient-to-br from-blue-600 to-purple-600">
         <div className="max-w-4xl mx-auto text-center">
           <div className="animate-in fade-in slide-in-from-bottom duration-700">
-            <h2 className="text-4xl font-bold text-white mb-6">Let's Work Together</h2>
+            <h2 className="text-4xl font-bold text-white mb-6">Let&apos;s Work Together</h2>
             <p className="text-xl text-blue-100 mb-8 max-w-2xl mx-auto leading-relaxed">
-              Ready to drive your next IT project to success? Let's discuss how I can help transform your technology
+              Ready to drive your next IT project to success? Let&apos;s discuss how I can help transform your technology
               initiatives.
             </p>
             <div className="flex flex-wrap justify-center gap-4">
